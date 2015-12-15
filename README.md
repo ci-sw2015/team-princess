@@ -9,7 +9,7 @@ Let's do this!
 1) Wie viel Code Coverage wird durch die Tests erzielt?
 
 
-2) Was ist der Unterschied zwischen Branch- und Line
+2) Was ist der große Unterschied zwischen Branch- und Line
 Coverage?
 
 
